@@ -1,0 +1,230 @@
+{
+    "seasoninfo": [
+        {
+            "year": "2008",
+            "backgroundColor": "linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)",
+            "temp": "2",
+            "draw": "0",
+            "winner": {
+                "team": "Rajasthan Royals",
+                "image": "team-logo/Rajasthan_Royals.png",
+                "team2": "Chennai Super Kings",
+                "image2": "team-logo/Chennai_Super_Kings.png"
+            },
+            "win_af_toss": {
+                "win": "0.52",
+                "lose": "0.48"
+            },
+           "orange_cap":" Shaun Marsh (KXIP)",
+            "purple_cap": "Sohali Tanvir (RR)",
+            "max_umpired": [
+                "BF Bowden",
+                "RE Koertzen"
+            ],
+            "max_pom": "SE Marsh"
+        },
+        {
+            "year": "2009",
+            "backgroundColor": "linear-gradient( 135deg, #43CBFF 10%, #9708CC 100%)",
+            "temp": "3",
+            "draw": "1",
+            "winner": {
+                "team": "Deccan Chargers",
+                "image": "team-logo/Deccan_Chargers.png",
+                "team2": "Royal Challengers Bangalore",
+                "image2": "team-logo/Royal_Challengers_Bangalore.png"
+    
+            },
+            "win_af_toss": {
+                "win": "0.42",
+                "lose": "0.58"
+            },
+            "orange_cap":"Matthew Hayden (CSK)",
+            "purple_cap": "R. P. Singh (DD)",
+            "max_umpired": [
+                "BR Doctrove"
+            ],
+            "max_pom": "YK Pathan"
+        },
+        {
+            "year": "2010",
+            "backgroundColor": "linear-gradient( 135deg, #FDD819 10%, #E80505 100%)",
+         
+            "temp": "0",
+            "draw": "1",
+            "winner": {
+                "team": "Chennai Super Kings",
+                "image": "team-logo/Chennai_Super_Kings.png",
+                "team2": "Mumbai Indians",
+                "image2": "team-logo/Mumbai_Indians.png"
+            },
+            "win_af_toss": {
+                "win": "0.48",
+                "lose": "0.52"
+            },
+            "orange_cap":"Sachin Tendulkar (MI)",
+            "purple_cap": "Pragyan Ojha (DC)",
+            "max_umpired": [
+                "RE Koertzen"
+            ],
+            "max_pom": "SR Tendulkar"
+        },
+        {
+            "year": "2011",
+            "backgroundColor": "linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%)",
+            "temp": "3",
+            "draw": "1",
+            "winner": {
+                "team": "Chennai Super Kings",
+                "image": "team-logo/Chennai_Super_Kings.png",
+                "team2": "Royal Challengers Bangalore",
+                "image2": "team-logo/Royal_Challengers_Bangalore.png"
+            },
+            "win_af_toss": {
+                "win": "0.48",
+                "lose": "0.52"
+            },
+            "orange_cap":"Chris Gayle (RCB)",
+            "purple_cap": "Lasith Malinga (MI)",
+            "max_umpired": [
+                "Asad Rauf"
+            ],
+            "max_pom": "CH Gayle"
+        },
+        {
+            "year": "2012",
+            "backgroundColor": "linear-gradient( 135deg, #5EFCE8 10%, #736EFE 100%)",
+            "temp": "0",
+            "draw": "0",
+            "winner": {
+                "team": "Kolkata Knight Riders",
+                "image": "team-logo/Kolkata_Knight_Riders.png",
+                "team2": "Chennai Super Kings",
+                "image2": "team-logo/Chennai_Super_Kings.png"
+            },
+            "win_af_toss": {
+                "win": "0.55",
+                "lose": "0.45"
+            },
+            "orange_cap":"Chris Gayle (RCB)",
+            "purple_cap": "Morne Morkel (DD)",
+            "max_umpired": [
+                "BF Bowden"
+            ],
+            "max_pom": "CH Gayle"
+        },
+        {
+            "year": "2013",
+            "backgroundColor": "linear-gradient( 135deg, #FF7AF5 10%, #513162 100%)",
+            "temp": "0",
+            "draw": "2",
+            "winner": {
+                "team": "Mumbai Indians",
+                "image": "team-logo/Mumbai_Indians.png",
+                "team2": "Chennai Super Kings",
+                "image2": "team-logo/Chennai_Super_Kings.png"
+            },
+            "win_af_toss": {
+                "win": "0.53",
+                "lose": "0.47"
+            },
+            "orange_cap":"Michael Hussey (CSK)",
+            "purple_cap": "Dwayne Bravo (CSK)",
+            "max_umpired": [
+                "Asad Rauf",
+                "S Ravi"
+            ],
+            "max_pom": "MEK Hussey"
+        },
+        {
+            "year": "2014",
+            "backgroundColor": "linear-gradient( 135deg, #FF96F9 10%, #C32BAC 100%)",
+            "temp": "1",
+            "draw": "1",
+            "winner": {
+                "team": "Kolkata Knight Riders",
+                "image": "team-logo/Kolkata_Knight_Riders.png",
+                "team2": "Kings XI Punjab",
+                "image2": "team-logo/Kings_XI_Punjab.png"
+            },
+            "win_af_toss": {
+                "win": "0.5",
+                "lose": "0.5"
+            },
+            "orange_cap":"Robin Uthappa (KKR)",
+            "purple_cap": "Mohit Sharma (CSK)",
+            "max_umpired": [
+                "HDPK Dharmasena"
+            ],
+            "max_pom": "GJ Maxwell"
+        },
+        {
+            "year": "2015",
+            "backgroundColor": "linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)",
+            "temp": "2",
+            "draw": "3",
+            "winner": {
+                "team": "Mumbai Indians",
+                "image": "team-logo/Mumbai_Indians.png",
+                "team2": "Chennai Super Kings",
+                "image2": "team-logo/Chennai_Super_Kings.png"
+            },
+            "win_af_toss": {
+                "win": "0.53",
+                "lose": "0.47"
+            },
+            "orange_cap":"David Warner (SRH)",
+            "purple_cap": "Dwayne Bravo (CSK)",
+            "max_umpired": [
+                "AK Chaudhary",
+                "RK Illingworth"
+            ],
+            "max_pom": "DA Warner"
+        },
+        {
+            "year": "2016",
+            "backgroundColor": "linear-gradient( 135deg, #FCCF31 10%, #F55555 100%)",
+            "temp": "4",
+            "draw": "0",
+            "winner": {
+                "team": "Sunrisers Hyderabad",
+                "image": "team-logo/Sunrisers_Hyderabad.png",
+                "team2": "Royal Challengers Bangalore",
+                "image2": "team-logo/Royal_Challengers_Bangalore.png"
+            },
+            "win_af_toss": {
+                "win": "0.43",
+                "lose": "0.57"
+            },
+            "orange_cap":"Virat Kohli (RCB)",
+            "purple_cap": "Bhuvneshwar Kumar (SRH)",
+            "max_umpired": [
+                "HDPK Dharmasena"
+            ],
+            "max_pom": "V Kohli"
+        },
+        {
+            "year": "2017",
+            "backgroundColor": "linear-gradient( 135deg, #F761A1 10%, #8C1BAB 100%)",
+            "temp": "1",
+            "draw": "1",
+            "winner": {
+                "team": "Mumbai Indians",
+                "image": "team-logo/Mumbai_Indians.png",
+                "team2": "Rising Pune Supergiant",
+                "image2": "team-logo/Rising_Pune_Supergiant.png"
+            },
+            "win_af_toss": {
+                "win": "0.42",
+                "lose": "0.58"
+            },
+            "orange_cap":"David Warner (SRH)",
+            "purple_cap": "Bhuvneshwar Kumar (SRH)",
+            "max_umpired": [
+                "Nitin Menon",
+                "S Ravi"
+            ],
+            "max_pom": "NM Coulter-Nile"
+        }
+    ]
+}

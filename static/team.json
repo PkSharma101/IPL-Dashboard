@@ -1,0 +1,628 @@
+{
+    "teaminfo": [
+        {
+            "team": "Mumbai Indians",
+            "status": "Active",
+            "match": "92",
+            "image": "team-logo/Mumbai_Indians.png",
+            "color": "linear-gradient(135deg,#004B40, rgba(0,0,0,0.2))",
+            "bar": "#004b40",
+            "trophy":{
+                "first":3,
+                "runner":1
+            },
+            "wins": [
+                7,
+                5,
+                11,
+                10,
+                10,
+                13,
+                7,
+                10,
+                7,
+                12
+            ],
+            "matches": [
+                14,
+                13,
+                16,
+                16,
+                17,
+                19,
+                15,
+                16,
+                14,
+                17
+            ],
+            "lost": [
+                7,
+                8,
+                5,
+                6,
+                7,
+                6,
+                8,
+                6,
+                7,
+                5
+            ]
+        },
+        {
+            "team": "Chennai Super Kings",
+            "status": "Active",
+            "match": "79",
+            "image": "team-logo/Chennai_Super_Kings.png",
+            "color": "linear-gradient(135deg,#ffff3c, rgba(0,0,0,0.2))",
+            "bar": "#ffff3c",
+            "trophy":{
+                "first":2,
+                "runner":4
+            },
+            "wins": [
+                9,
+                8,
+                9,
+                11,
+                10,
+                12,
+                10,
+                10,
+                0,
+                0
+            ],
+            "matches": [
+                16,
+                14,
+                16,
+                16,
+                18,
+                18,
+                16,
+                17,
+                0,
+                0
+            ],
+            "lost": [
+                7,
+                6,
+                7,
+                5,
+                8,
+                6,
+                6,
+                7,
+                0,
+                0
+            ]
+        },
+        {
+            "team": "Kolkata Knight Riders",
+            "status": "Active",
+            "match": "77",
+            "image": "team-logo/Kolkata_Knight_Riders.png",
+            "color": "linear-gradient(135deg,#2e0854, rgba(0,0,0,0.2))",
+            "bar": "#2e0854",
+            "trophy":{
+                "first":2,
+                "runner":0
+            },
+            "wins": [
+                6,
+                3,
+                7,
+                8,
+                12,
+                6,
+                11,
+                7,
+                8,
+                9
+            ],
+            "matches": [
+                13,
+                13,
+                14,
+                15,
+                17,
+                16,
+                16,
+                13,
+                15,
+                16
+            ],
+            "lost": [
+                7,
+                7,
+                10,
+                7,
+                7,
+                5,
+                10,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "team": "Royal Challengers Bangalore",
+            "status": "Active",
+            "match": "73",
+            "image": "team-logo/Royal_Challengers_Bangalore.png",
+            "color": "linear-gradient(135deg,#EC1C24, rgba(0,0,0,0.2))",
+            "bar": "#EC1C24",
+            "trophy":{
+                "first":0,
+                "runner":3
+            },
+            "wins": [
+                4,
+                9,
+                8,
+                10,
+                8,
+                9,
+                5,
+                8,
+                9,
+                3
+            ],
+            "matches": [
+                14,
+                16,
+                16,
+                16,
+                15,
+                16,
+                14,
+                16,
+                16,
+                13
+            ],
+            "lost": [
+                10,
+                7,
+                8,
+                6,
+                7,
+                7,
+                9,
+                8,
+                7,
+                10
+            ]
+        },
+        {
+            "team": "Kings XI Punjab",
+            "status": "Active",
+            "match": "70",
+            "image": "team-logo/Kings_XI_Punjab.png",
+            "color": "linear-gradient(135deg,#ed1824, rgba(0,0,0,0.2))",
+            "bar": "#ed1824",
+            "trophy":{
+                "first":0,
+                "runner":1
+            },
+            "wins": [
+                10,
+                7,
+                4,
+                7,
+                8,
+                8,
+                12,
+                3,
+                4,
+                7
+            ],
+            "matches": [
+                15,
+                14,
+                14,
+                14,
+                16,
+                16,
+                17,
+                14,
+                14,
+                14
+            ],
+            "lost": [
+                5,
+                7,
+                10,
+                7,
+                8,
+                8,
+                5,
+                11,
+                10,
+                7
+            ]
+        },
+        {
+            "team": "Rajasthan Royals",
+            "status": "Active",
+            "match": "63",
+            "image": "team-logo/Rajasthan_Royals.png",
+            "color": "linear-gradient(135deg,#254aa5, rgba(0,0,0,0.2))",
+            "bar": "#254aa5",
+            "trophy":{
+                "first":1,
+                "runner":0
+            },
+            "wins": [
+                13,
+                6,
+                6,
+                6,
+                7,
+                11,
+                7,
+                7,
+                0,
+                0
+            ],
+            "matches": [
+                16,
+                13,
+                14,
+                13,
+                16,
+                18,
+                14,
+                14,
+                0,
+                0
+            ],
+            "lost": [
+                3,
+                7,
+                8,
+                7,
+                9,
+                7,
+                7,
+                7,
+                0,
+                0
+            ]
+        },
+        {
+            "team": "Delhi Daredevils",
+            "status": "Active",
+            "match": "62",
+            "image": "team-logo/Delhi_Daredevils.png",
+            "color": "linear-gradient(135deg,#ef1b23, rgba(0,0,0,0.2))",
+            "bar": "#ef1b23",
+            "trophy":{
+                "first":0,
+                "runner":0
+            },
+            "wins": [
+                7,
+                10,
+                7,
+                4,
+                11,
+                3,
+                2,
+                5,
+                7,
+                6
+            ],
+            "matches": [
+                14,
+                15,
+                14,
+                14,
+                18,
+                16,
+                14,
+                14,
+                14,
+                14
+            ],
+            "lost": [
+                7,
+                5,
+                7,
+                10,
+                7,
+                13,
+                12,
+                9,
+                7,
+                8
+            ]
+        },
+        {
+            "team": "Sunrisers Hyderabad",
+            "status": "Active",
+            "match": "42",
+            "image": "team-logo/Sunrisers_Hyderabad.png",
+            "color": "linear-gradient(135deg,#ffb22a, rgba(0,0,0,0.2))",
+            "bar": "#ffb22a",
+            "trophy":{
+                "first":1,
+                "runner":0
+            },
+            "wins": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                10,
+                6,
+                7,
+                11,
+                8
+            ],
+            "matches": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                17,
+                14,
+                14,
+                17,
+                14
+            ],
+            "lost": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                7,
+                8,
+                7,
+                6,
+                6
+            ]
+        },
+        {
+            "team": "Deccan Chargers",
+            "status": "Inactive",
+            "match": "29",
+            "image": "team-logo/Deccan_Chargers.png",
+            "color": "linear-gradient(135deg,#366293, rgba(0,0,0,0.2))",
+            "bar": "#366293",
+            "trophy":{
+                "first":1,
+                "runner":0
+            },
+            "wins": [
+                2,
+                9,
+                8,
+                6,
+                4,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "matches": [
+                14,
+                16,
+                16,
+                14,
+                15,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lost": [
+                12,
+                7,
+                8,
+                8,
+                11,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "team": "Rising Pune Supergiant",
+            "status": "Inactive",
+            "match": "15",
+            "image": "team-logo/Rising_Pune_Supergiant.png",
+            "color": "linear-gradient(135deg,#8c411e, rgba(0,0,0,0.2))",
+            "bar": "#8c411e",
+            "trophy":{
+                "first":0,
+                "runner":1
+            },
+            "wins": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                5,
+                10
+            ],
+            "matches": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                14,
+                16
+            ],
+            "lost": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9,
+                6
+            ]
+        },
+        {
+            "team": "Gujarat Lions",
+            "status": "Inactive",
+            "match": "13",
+            "image": "team-logo/Gujarat_Lions.png",
+            "color": "linear-gradient(135deg,#E04F16, rgba(0,0,0,0.2))",
+            "bar": "#E04F16",
+            "trophy":{
+                "first":0,
+                "runner":0
+            },
+            "wins": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9,
+                4
+            ],
+            "matches": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                16,
+                14
+            ],
+            "lost": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                7,
+                10
+            ]
+        },
+        {
+            "team": "Pune Warriors",
+            "status": "Inactive",
+            "match": "12",
+            "image": "team-logo/Pune_Warriors.png",
+            "color": "linear-gradient(135deg,#d11d9b, rgba(0,0,0,0.2))",
+            "bar": "#d11d9b",
+            "trophy":{
+                "first":0,
+                "runner":0
+            },
+            "wins": [
+                0,
+                0,
+                0,
+                4,
+                4,
+                4,
+                0,
+                0,
+                0,
+                0
+            ],
+            "matches": [
+                0,
+                0,
+                0,
+                14,
+                16,
+                16,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lost": [
+                0,
+                0,
+                0,
+                10,
+                12,
+                12,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "team": "Kochi Tuskers Kerala",
+            "status": "Inactive",
+            "match": "6",
+            "image": "team-logo/Kochi_Tuskers_Kerala.png",
+            "color": "linear-gradient(135deg,#ff8c00, rgba(0,0,0,0.2))",
+            "bar": "#ff8c00",
+            "trophy":{
+                "first":0,
+                "runner":0
+            },
+            "wins": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "matches": [
+                0,
+                0,
+                0,
+                0,
+                14,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lost": [
+                0,
+                0,
+                0,
+                0,
+                8,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}
