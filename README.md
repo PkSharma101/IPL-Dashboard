@@ -36,6 +36,7 @@ AAENGE HUM WAPAS-2020!
 2. ```npm install && npm run dev  ```
 
 ## Demo
+![Demo](https://github.com/PkSharma101/IPL-Dashboard/blob/master/public/demo.gif)
 
 ## Live at: [http://ipl-stats-dash.herokuapp.com/](http://ipl-stats-dash.herokuapp.com/)
 
