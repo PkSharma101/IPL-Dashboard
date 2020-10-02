@@ -27,7 +27,7 @@ export default {
         align: "center",
         floating: false,
         style: {
-          fontSize: "19px",
+          fontSize: "18px",
           fontWeight: "bold",
           fontFamily: undefined,
           color: "#fff",

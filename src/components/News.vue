@@ -494,13 +494,6 @@ export default {
         },
         {
           position: {
-            lat: 15.041333168,
-            lng: 25.217999128,
-          },
-          infoText: "Shaheed Veer Narayan Singh International Stadium",
-        },
-        {
-          position: {
             lat: 28.59214,
             lng: 77.046051,
           },
