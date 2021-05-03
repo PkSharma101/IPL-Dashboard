@@ -22,14 +22,6 @@ AAENGE HUM WAPAS-2020!
 * Web Framework: Vue
 * Visualization: Apexcharts
 
-# For Bonus Points
-
-* Vue has been used for creating the web app using vue-cli.
-* Loading time has not been optimized exclusively.
-* The web app has been made responsive ranging from low-end mobiles to desktops.
-* The app is progressive.
-* It has not been made offline usable. 
-
 
 ## To run app locally
 1. Clone this repository
